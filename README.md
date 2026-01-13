@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ![image](https://github.com/user-attachments/assets/f8208748-51ba-418d-b2dd-f5b2be4281bf)
 
 
@@ -439,3 +440,7 @@ By contributing to the Students' Grievance Management System, you not only help 
 
 
 
+=======
+# Students-Grievance-Management-System
+Web-based system to manage student grievances using PHP &amp; MySQL
+>>>>>>> dae0dff206c1c088cfdb8e9c07d2a2a7444893c8
